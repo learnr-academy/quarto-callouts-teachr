@@ -1,0 +1,21 @@
+---
+title: "Quarto-callouts-teachr Example"
+filters:
+  - quarto-callouts-teachr
+---
+
+This filter adds custom callouts for <https://learnr.academy> learning modules.
+
+These callouts include:
+
+:::{.callout-exercise icon=true}
+A callout for writing exercise instructions
+:::
+
+:::{.callout-tip icon=false}
+A callout for tips
+:::
+
+:::{.callout-question icon=true}
+A callout for questions
+:::
